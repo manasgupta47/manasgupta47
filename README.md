@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966)]
+![MasterHead](https://aureatelabs.com/wp-content/uploads/Magento-2-frontend-tools-for-developers-blog-banner.jpg)
 <h1 align="center">Hi 👋, I'm Manas Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzQMRSZ3aYWbd7yzgqThdfP0lRf96npLxoGFvDIa7pSAKPTeHidaxCcNeNmE_TqZN_Ko&usqp=CAU"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasgupta47&label=Profile%20views&color=0e75b6&style=flat" alt="manasgupta47" /> </p>
 
 <p align="left"> <a href="https://twitter.com/manasgu58677770" target="blank"><img src="https://img.shields.io/twitter/follow/manasgu58677770?logo=twitter&style=for-the-badge" alt="manasgu58677770" /></a> </p>
