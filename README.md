@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasgupta47](https://github.com/manasgupta47)
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP, JAVASCRIPT, REACTJS**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, MONGODB, EXPRESSJS, SQL**
 
 - 📫 How to reach me **manas.gupta4742@gmail.com**
 
